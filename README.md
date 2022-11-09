@@ -1,4 +1,4 @@
-<h1 align='center'>Olá Mundo, eu sou Nivaldo Souza</h1>
+<h1 align='center'>Nivaldo Souza</h1>
 </br>
 <h3 align='center'>I am Nivaldo, a young brazilian developer in learning, always looking for more knowledge about new technologies. I love to play video games and have a barbecue with friends.<h3>
 </br>
