@@ -1,16 +1,24 @@
 <h1 align='center'>Nivaldo Souza</h1>
 </br>
-<h3 align='center'>I am Nivaldo, a young brazilian developer in learning, always looking for more knowledge about new technologies. I love to play video games and have a barbecue with friends.<h3>
+<h3 align='justify'>25 anos, atua como profissional de TI na área publica e como autônomo, onde o foco sempre foi o comprometimento com a empresa e com o cliente. Experiência em manutenção, instalação e suporte.
+
+Atua como assessor de tecnologia, onde adquiriu competências de gestão interpessoal, liderança e atendimento ao cliente.
+
+Buscando enfrentar novos desafios e conhecimentos, me especializando em Analise de dados, Power BI e SQL, almejando assim se tornar um grande profissional de Analytics.
+
+Pelo lado pessoal é uma pessoa bem humorada, comunicativa, amante de esportes, um bom Whisky e acima de tudo por sua família.
+
+Em resumo, Nivaldo é um profissional dedicado, empenhado e companheiro que esta disposto a conhecer, aprender e também mostrar suas qualidades..<h3>
 </br>
 <h3>Skills:</h3>
 </br>
 <ul>
-  <li>NodeJs</li>
-  <li>Java Script</li>
-  <li>Docker</li>
+  <li>Data Analytics</li>
+  <li>Power BI</li>
   <li>SQL</li>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>SQL</li>
+  <li>Data Viz</li>
+  <li>Big Data</li>
 </ul>
 
 <p align='center'>
