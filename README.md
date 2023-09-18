@@ -13,11 +13,10 @@ Em resumo, Nivaldo é um profissional dedicado, empenhado e companheiro que esta
 <h3>Skills:</h3>
 </br>
 <ul>
-  <li>Data Analytics</li>
   <li>Power BI</li>
   <li>SQL</li>
-  <li>SQL</li>
-  <li>Data Viz</li>
+  <li>Python</li>
+  <li>Excel</li>
   <li>Big Data</li>
 </ul>
 
