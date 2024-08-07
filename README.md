@@ -13,7 +13,9 @@
 </ul>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nivaldosouza27&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nivaldosouza27&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="nivaldosouza27's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivaldosouza27&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="nivaldosouza27's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivaldosouza27&theme=midnight-purple&hide_border=true" alt="nivaldosouza27's GitHub Stats" />
 </p>
 
 <h3>Social networks:</h3>
