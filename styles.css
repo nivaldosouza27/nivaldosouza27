@@ -1,0 +1,84 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 1rem;
+}
+
+h1 {
+  align-items: center;
+};
+
+h3 {
+  align-items: center;
+  justify-content: center;
+}
+
+#title {
+  font-size: x-large;
+  font-weight: 800;
+}
+
+#titleContainer {
+  margin-bottom: 3rem;
+}
+
+#resume {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+#resumeContainer {
+  margin-bottom: 3rem;
+}
+
+#subtitleSkills {
+  font-size: x-large;
+  font-weight: 800;
+}
+
+#listExperience {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+#StatsContainer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+#StatsContainer img {
+  display: flex;
+}
+
+#stats {
+  display: flex;  
+  padding: 2rem;
+}
+
+#languages {
+  display: flex;
+  height: 20rem;
+}
+
+#contributions {
+  display: flex;
+  padding: 1.5rem;
+}
+
+#socialContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+#subtitleSocial {
+  font-size: large;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
