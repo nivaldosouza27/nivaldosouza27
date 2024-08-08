@@ -3,15 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div id="titleContainer">
     <span id="title">Nivaldo Souza</span>
   </div>
+  <br/>
   <div id="resumeContainer">
-    <span id="resume">I am a Web Full Stack Trainee focused on JavaScript, React, and Next.js, dedicated to creating innovative and functional solutions. My responsibilities include front-end development with React, back-end with Node.js, and Next.js applications with server-side rendering. I work in teams to implement features, participate in code reviews and feedback meetings, and solve problems to optimize performance and security. I have skills in JavaScript (ES6+), HTML5, CSS3, Node.js, Git, and REST APIs.<span>
+      <span id="resume">
+        I am a Web Full Stack Trainee focused on JavaScript, React, and Next.js, dedicated to creating innovative and functional solutions. My responsibilities include front-end development with React, back-end with Node.js, and Next.js                         applications with server-side rendering. I work in teams to implement features, participate in code reviews and feedback meetings, and solve problems to optimize performance and security. I have skills in JavaScript (ES6+), HTML5, CSS3, Node.js,         Git, and REST APIs.
+      <span>
   </div>
+  <br/>
   <div id="skillsContainer">
     <span id="subtitleSkills">Skills:</span>
     <ul id="listExperience">
@@ -29,7 +32,8 @@
       <img id="contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=nivaldosouza27&theme=midnight-purple&hide_border=true" alt="nivaldosouza27's GitHub Stats" />
     </div>
   </div>
-  <div id="socialContainer">
+  <br/>
+  <div id="socialContainer" align=center>
     <span id="subtitleSocial">Social networks:</span>
     <div id="Sociallinks">
       <a id="linkedin" href="https://www.linkedin.com/in/nivaldo-de-souza-martins-a44221198/" target="_blank">
