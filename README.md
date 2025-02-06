@@ -11,7 +11,7 @@
   <br/>
   <div id="resumeContainer">
       <span id="resume">
-        I am a Web Full Stack Trainee focused on JavaScript, React, and Next.js, dedicated to creating innovative and functional solutions. My responsibilities include front-end development with React, back-end with Node.js, and Next.js                         applications with server-side rendering. I work in teams to implement features, participate in code reviews and feedback meetings, and solve problems to optimize performance and security. I have skills in JavaScript (ES6+), HTML5, CSS3, Node.js,         Git, and REST APIs.
+        Sou em desenvolvedor Web Front-End focado em Typescript, React, Next.js, Tailwind CSS e com conhecimentos também em desenvolvimento back-end em Nest.js com Prisma ORM. Minhas responsabilidades incluem desenvolvimento de componentes, páginas, hooks, contexts, providers e toda a infraestrutura de métodos do react. Trabalho em conjunto com a equipe para implementar recursos necessários e melhorias na aplicação, participar de revisões de código e reuniões de feedback e resolver problemas para otimizar o desempenho e a segurança.
       <span>
   </div>
   <br/>
